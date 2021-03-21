@@ -10,6 +10,9 @@ Git kann unter [hier](https://git-scm.com/downloads) heruntergeladen werden. Ohn
 - [V01_Lambdas](V01_Lambdas): Enthält Beispielprogramme zur ersten Vorlesung (Lambda-Ausdrücke).
 - [T01_Lambdas](T01_Lambdas): Enthält Lösungsvorschläge zum ersten T-Blatt (Lambda-Ausdrücke).
 - [P01_Lambdas](P01_Lambdas): Enthält Lösungsvorschläge zum ersten P-Blatt (Lambda-Ausdrücke).
+- [V02_Streams und Pipeline-Operationen](V01_Lambdas): Enthält Beispielprogramme zur zweiten Vorlesung (Streams und Pipeline-Operationen).
+- [T02_Streams und Pipeline-Operationen](T01_Lambdas): Enthält Lösungsvorschläge zum zweiten T-Blatt (Streams und Pipeline-Operationen).
+- [P02_Streams und Pipeline-Operationen](P01_Lambdas): Enthält Lösungsvorschläge zum zweiten P-Blatt (Streams und Pipeline-Operationen).
 
 # Support
 Bei Fragen und Problemen kann gerne über ein neues [Issue](https://github.com/LukasStruppek/Moderne-Programmierkonzepte-Unterlagen/issues) hier in Github erstellt werden. Der Vorteil hierbei ist, dass Fragen und Antworten auch für andere Studierende sichtbar sein. Alternativ können Fragen auch jederzeit gerne per Mail gestellt werden.
