@@ -6,7 +6,7 @@ import java.util.function.*;
  * @author Lukas Struppek
  *
  */
-public class Aufgabe2 {
+public class Aufgabe1_2 {
 	public static void main(String[] args) {
 		/*
 		 * Typ von UnaryOperator wird als Integer festgelegt. Erlaubt Typsicherheit

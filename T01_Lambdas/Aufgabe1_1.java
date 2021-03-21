@@ -6,7 +6,7 @@ import java.util.*;
  * @author Lukas Struppek
  *
  */
-public class Aufgabe1 {
+public class Aufgabe1_1 {
 	public static void main(String[] args) {
 		List<Double> zahlen = Arrays.asList(1.0, 2.5, 3.5, 1.1, 2.2);
 		// 1. Ersetzen Sie alle Einträge durch Zufallswerte

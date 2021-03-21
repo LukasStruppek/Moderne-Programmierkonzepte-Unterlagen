@@ -8,5 +8,8 @@
 	<classpathentry kind="src" path="V01_Lambdas"/>
 	<classpathentry kind="src" path="T01_Lambdas"/>
 	<classpathentry kind="src" path="P01_Lambdas"/>
+	<classpathentry kind="src" path="V02_Streams"/>
+	<classpathentry kind="src" path="T02_Streams"/>
+	<classpathentry kind="src" path="P02_Streams"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
