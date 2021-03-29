@@ -2,9 +2,7 @@
 Unterlagen zur Vorlesung Moderne Programmierkonzepte.
 
 # Klonen des Repositories
-Sofern git bereits auf dem Rechner installiert ist, kann das Repo geklont werden über folgenden Befehl:  
-`git clone https://github.com/LukasStruppek/Moderne-Programmierkonzepte-Unterlagen.git`  
-Git kann unter [hier](https://git-scm.com/downloads) heruntergeladen werden. Ohne git kann rechts oben über den Button Code das Projekt auch als zip-File heruntergeladen und entpackt werden.
+Am einfachsten lässt sich das Projekt direkt über Eclipse von Github importieren. Hierzu unter `File` -> `Import...` Unterpunkt `Git` -> `Import Project from Git (with smart Import)` -> `Clone URI`, dort https://github.com/LukasStruppek/Moderne-Programmierkonzepte-Unterlagen.git als URI angeben. Anschließend alle folgenden Fenster mit `Next` bestätigen bzw. bei Bedarf Einstellungen am Speicherort vornehmen. Die Seite [https://tools.jboss.org/documentation/howto/git_import_projects.html](https://tools.jboss.org/documentation/howto/git_import_projects.html) hat unter dem Punkt "Importing Projects from Git with Smart Import" auch alle Schritte noch einmal aufgeführt bzw. alternativ unter dem Punkt "Importing Projects from the Remote Git Repository" auch passende Screenshots bereitgestellt.
 
 # Lehrinhalte
 - [V01_Lambdas](V01_Lambdas): Enthält Beispielprogramme zur ersten Vorlesung (Lambda-Ausdrücke).
