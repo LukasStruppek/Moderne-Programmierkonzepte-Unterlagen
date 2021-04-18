@@ -12,6 +12,9 @@ Am einfachsten lässt sich das Projekt direkt über Eclipse von Github importier
 - [T02_Streams und Pipeline-Operationen](T01_Lambdas): Enthält Lösungsvorschläge zum zweiten T-Blatt (Streams und Pipeline-Operationen).
 - [P02_Streams und Pipeline-Operationen](P01_Lambdas): Enthält Lösungsvorschläge zum zweiten P-Blatt (Streams und Pipeline-Operationen).
 
+# Zusätzliche Inhalte
+[AdditionalData](AdditionalData): Enthält einen Datensatz mit gesammelten Restaurant-Kritiken aus dem vergangenen Jahr. Die Datei `Restaurant.java` konvertiert den Datensatz in passende Restaurant-Objekte und sammelt diese in einer ArrayList. In der Klasse `Playground.java` wird eine entsprechende Liste abgerufen. Diese Datei dient dem Experimentieren mit dem Datensatz in Kombination mit Lambda-Ausdrücken und Streams. Der Datensatz 'Future50.csv' sowie Informationen zu den einzelnen Attributen findet man auf [Kaggle](https://www.kaggle.com/michau96/restaurant-business-rankings-2020?select=Future50.csv). 
+
 # Weitere Hilfen
 - Im Ordner [Cheatsheets](Cheatsheets) sind zweí Cheatsheets (Zusammenfassungen) der wichtigsten Konzepte im Umgang mit Lambda-Ausdrücken und der Stream-API abgelegt. Gerade am Anfang können diese unterstützen beim Umgang mit der Syntax bzw. den API-Neuerungen.
 
